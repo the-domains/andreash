@@ -1,0 +1,28 @@
+name: andreash
+favicon: null
+layout_spectrum: 0.6627068591769785
+typography_spectrum: 0.7190560903400183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4800091818906367
+  lightness: 0.16241824277676642
+  saturation: 0.9349283683113754
+  rhythmicContrast: 0.861555386101827
+purpose: []
